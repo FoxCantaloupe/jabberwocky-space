@@ -3,7 +3,6 @@ import React, {
   useEffect,
 } from "react";
 import { Link } from "react-router-dom";
-import { post } from "request";
 import sanityClient from "../client.js";
 
 const Post = () => {

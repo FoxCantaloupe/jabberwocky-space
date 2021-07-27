@@ -98,7 +98,7 @@ const Project = () => {
                         role="img"
                         aria-label="right pointer"
                       >
-                        ->
+                        -
                       </span>
                     </a>
                   </div>
