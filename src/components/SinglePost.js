@@ -46,8 +46,8 @@ export default function SinglePost() {
     return <div>Loading...</div>;
 
   return (
-    <main className="bg-gray-200 mini-h-screen p-12">
-      <article className="container shadow-lg mx-auto bg-green-100 rounded-lg">
+    <main className="peach mini-h-screen p-12">
+      <article className="container shadow-lg mx-auto yellowbg rounded-lg">
         <header className="relative">
           <div className="absolute h-full flex items-center justify-center p-8">
             <div className="bg-white bg-opacity-75 rounded p-12">

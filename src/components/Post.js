@@ -29,7 +29,7 @@ const Post = () => {
       .catch(console.error);
   }, []);
   return (
-    <main className="bg-green-100 min-h-screen p-12">
+    <main className="peach min-h-screen p-12">
       <section className="container mx-auto">
         <h1 className="text-5xl flex justify-center cursive">
           The Space Walk
@@ -52,7 +52,7 @@ const Post = () => {
                     }
                   >
                     <span
-                      className="block h-64 relative rounded shadow leading-snug bg-white border-l-8 border-green-400"
+                      className="block h-64 relative rounded shadow leading-snug yellowbg border-l-8 border-yellow-300"
                       key={index}
                     >
                       <img

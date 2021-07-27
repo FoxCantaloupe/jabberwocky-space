@@ -20,3 +20,18 @@
 .home-name {
   font-size: 150px;
 }
+
+.peach {
+  background-color: cornsilk;
+}
+.yellowbg {
+  background-color: rgba(
+    244,
+    191,
+    60,
+    1
+  );
+}
+.textout {
+  color: cornsilk;
+}
